@@ -1,5 +1,5 @@
 # eGolf
-eGolf is a web3 game made for 3D artists, golf hobbyists and NFT enthusiasts. The game is made with design and flexibility in mind, it is decentralized and free
+eGolf is a web3 game made for 3D artists, golf hobbyists and NFT enthusiasts.
 
 # About
 eGolf is a 3d golf game built using BabylonJS and working with Moralis.io as the central server, it is a game that makes good of NFT as an essential Game Asset(the golf courses of the game itself). The player is mandated to import or select an existing golf course that has its *START* and *END* marked, The golf ball will be placed in the START position and it will end on collision with the END(Will be further explained in [How To](#how-to).
